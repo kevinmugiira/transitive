@@ -85,10 +85,10 @@
                         <div class="content">
                             <header class="align-center">
                                 <h2>Nairobi Winner Restaurants</h2>
-                                <p>The leading Restaurant system in Nairobi</p>
+                                <p>Leading Restaurant management system in Nairobi</p>
                             </header>
                             <hr />
-                            <p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada. Praesent in sem ex. Morbi mattis sapien pretium tellus venenatis, at egestas urna ornare.</p>
+                            <p> Nairobi Winner Restaurants prides itself with customer satisfaction and works towards making Nairobi a safe haven for reaching that nice restaurant with the best delicacies in town. We help you look a provide with a means of achieving the most flexible solutions in your restaurant to create real propositions for increased efficiency and at a lower cost. Our efforts are concentrated on completing your task with maximum efficiency and obtain the best solution possible.</p>
                         </div>
                     </div>
                 </div>
@@ -101,11 +101,10 @@
                         <div class="content">
                             <header class="align-center">
                                 <h2>Kampala Winner Restaurants</h2>
-                                <p>The leading Restaurant system in Kampala</p>
+                                <p>Leading Restaurant management system in Kampala</p>
                             </header>
                             <hr />
-                            <p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada. Praesent in sem ex. Morbi mattis sapien pretium tellus venenatis, at egestas urna ornare.</p>
-                            <p>Kampala Winner </p>
+                            <p>Kampala Winner Restaurants listens to what the client has to say and after understanding what our client's pain is, we start formulating a plan. We work with you the client to achieve the most flexible solutions in your restaurant to create real value propositions for increased efficiency and lower cost. Our efforts are concentrated on completing your task with maximum efficiency and to obtain the best solution possible. </p>
                         </div>
                     </div>
                 </div>
@@ -119,8 +118,8 @@
         <div class="inner">
 
             <header class="align-center">
-                <h2>Morbi interdum mollis sapien</h2>
-                <p>Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada. Praesent in sem ex. Morbi mattis sapien pretium tellus venenatis, at egestas urna ornare.</p>
+                <h2>Why choose Winning Systems</h2>
+                <p>Every client  has a unique story, goals and challenges. Therefore, beyond the development of technology solutions, customer service should be complemented with consultation and interactive planning. It is our task to provide you with the best solution, in the least amount of time and at the best price. Above all, we believe that your success is our duty. That's why we'll be there to support you from start to finish... and beyond.</p>
             </header>
 
         </div>
