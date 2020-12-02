@@ -1,9 +1,4 @@
 <!DOCTYPE HTML>
-<!--
-	Transitive by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
--->
 <html>
 <head>
     <title>Winner Restaurants by WINNING SYSTEMS</title>
@@ -80,7 +75,7 @@
             </div>
         </section>
         <div class="copyright">
-            &copy; Untitled Design: <a href="#">WINNING SYSTEMS</a>.<!-- Images <a href="https://unsplash.com/">Unsplash</a>. Video <a href="http://coverr.co/">Coverr</a>.-->
+            &copy;Designed by: <a href="#">WINNING SYSTEMS</a>
         </div>
     </div>
 </footer>
