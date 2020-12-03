@@ -18,8 +18,8 @@
 <nav id="menu">
     <ul class="links">
         <li><a href="/home">Home</a></li>
-        <li><a href="#">Generic</a></li>
-        <li><a href="#">Elements</a></li>
+        <!--<li><a href="#">Generic</a></li>
+        <li><a href="#">Elements</a></li>-->
     </ul>
 </nav>
 
@@ -75,7 +75,7 @@
             </div>
         </section>
         <div class="copyright">
-            &copy;Designed by: <a href="#">WINNING SYSTEMS</a>
+            &copy;Designed by: <a href="http://winning-systems.com">WINNING SYSTEMS</a>
         </div>
     </div>
 </footer>
