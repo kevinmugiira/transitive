@@ -21,7 +21,7 @@
             <div>
                 <div class="box">
                     <div class="image fit">
-                        <img src="assets/images/han(re).jpg" alt="" />
+                        <img src="assets/images/bunn.jpg" alt="" />
                     </div>
                     <div class="content">
                         <header class="align-center">
